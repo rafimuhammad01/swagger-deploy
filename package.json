@@ -8,5 +8,21 @@
   "dependencies": {
     "express": "3.x"
   },
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafimuhammad01/swagger-deploy.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/rafimuhammad01/swagger-deploy/issues"
+  },
+  "homepage": "https://github.com/rafimuhammad01/swagger-deploy#readme",
+  "description": ""
 }
